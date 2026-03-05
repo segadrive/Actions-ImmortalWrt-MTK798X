@@ -7,7 +7,7 @@
 #
 
 # 工作流名称（GitHub Actions 页面显示的名称，自定义为“360T7BBRv3 编译”）
-name: ImmortalWrt 360T7-24.40
+name: ImmortalWrt 360T7-24.10
 
 # 工作流触发条件
 on:
