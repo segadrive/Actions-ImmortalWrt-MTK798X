@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt RAX3000M-21.02
+name: ImmortalWrt RAX3000M-21.02
 
 on:
   repository_dispatch:
