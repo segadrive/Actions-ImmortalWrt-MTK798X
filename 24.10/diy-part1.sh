@@ -41,7 +41,7 @@ echo 'src-git lucky https://github.com/gdy666/luci-app-lucky.git' >> feeds.conf.
 echo 'src-git authshield https://github.com/iv7777/luci-app-authshield.git' >> feeds.conf.default
 # EasyTier (内网穿透组网)
 # echo 'src-git easytier https://github.com/EasyTier/luci-app-easytier.git' >> feeds.conf.default
-# Tailscale Community (注意：改名为 tailscale_community 以防与官方 packages 里的 tailscale 混淆)
+Tailscale Community (注意：改名为 tailscale_community 以防与官方 packages 里的 tailscale 混淆)
 echo 'src-git tailscale_community https://github.com/Tokisaki-Galaxy/luci-app-tailscale-community.git' >> feeds.conf.default
 # OWQ WOL (网络唤醒)
 # echo 'src-git owq_wol https://github.com/isalikai/luci-app-owq-wol.git' >> feeds.conf.default
