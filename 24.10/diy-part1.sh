@@ -48,6 +48,8 @@ echo 'src-git tailscale_community https://github.com/Tokisaki-Galaxy/luci-app-ta
 echo 'src-git owq_wol https://github.com/isalikai/luci-app-owq-wol.git' >> feeds.conf.default
 # timecontrol (上网时间控制)
 echo 'src-git timecontrol https://github.com/gaobin89/luci-app-timecontrol' >>feeds.conf.default
+# modem (让局域网客户端访问不同子网的AP或光猫)
+echo 'src-git modem https://github.com/zyqfork/luci-app-ap-modem' >>feeds.conf.default
 
 # 主题
 # git clone --depth=1 -b openwrt-25.12 https://github.com/sbwml/luci-theme-argon package/argon
